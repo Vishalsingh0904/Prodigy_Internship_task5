@@ -1,0 +1,148 @@
+Date,Time,Latitude,Longitude,Location Description,Weather Conditions,Road Conditions,Visibility,Accident Type,Injury Severity,Contributing Factors,Vehicle Type,No of Vehichles,Vehicle Speed,Day of Week,Month,Year
+05-01-2022,15:30:00,40.7128,-74.006,Highway,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,45,Wednesday,January,2022
+10-02-2022,18:45:00,41.8781,-87.6298,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,40,Thursday,February,2022
+15-03-2022,12:00:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,25,Tuesday,March,2022
+20-04-2022,09:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,35,Wednesday,April,2022
+25-05-2022,17:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,50,Wednesday,May,2022
+30-06-2022,14:30:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Thursday,June,2022
+05-07-2022,20:15:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2022
+10-08-2022,12:45:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2022
+15-09-2022,08:30:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2022
+20-10-2022,16:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2022
+25-11-2022,14:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2022
+30-12-2022,10:00:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2022
+05-01-2023,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2023
+10-02-2023,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2023
+15-03-2023,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2023
+20-04-2023,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2023
+25-05-2023,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2023
+30-06-2023,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2023
+05-07-2023,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2023
+10-08-2023,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2023
+15-09-2023,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2023
+20-10-2023,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2023
+25-11-2023,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2023
+30-12-2023,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2023
+05-01-2024,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2024
+10-02-2024,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2024
+15-03-2024,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2024
+20-04-2024,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2024
+25-05-2024,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2024
+30-06-2024,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2024
+05-07-2024,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2024
+10-08-2024,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2024
+15-09-2024,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2024
+20-10-2024,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2024
+25-11-2024,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2024
+30-12-2024,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2024
+01-01-2022,08:00:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Distracted Driving,Car,2,30,Monday,January,2022
+05-01-2022,15:30:00,40.7128,-74.006,Highway,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,45,Wednesday,January,2022
+10-02-2022,18:45:00,41.8781,-87.6298,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,40,Thursday,February,2022
+15-03-2022,12:00:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,25,Tuesday,March,2022
+20-04-2022,09:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,35,Wednesday,April,2022
+25-05-2022,17:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,50,Wednesday,May,2022
+30-06-2022,14:30:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Thursday,June,2022
+05-07-2022,20:15:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2022
+10-08-2022,12:45:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2022
+15-09-2022,08:30:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2022
+20-10-2022,16:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2022
+25-11-2022,14:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2022
+30-12-2022,10:00:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2022
+05-01-2023,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2023
+10-02-2023,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2023
+15-03-2023,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2023
+20-04-2023,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2023
+25-05-2023,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2023
+30-06-2023,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2023
+05-07-2023,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2023
+10-08-2023,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2023
+15-09-2023,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2023
+20-10-2023,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2023
+25-11-2023,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2023
+30-12-2023,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2023
+05-01-2024,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2024
+10-02-2024,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2024
+15-03-2024,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2024
+20-04-2024,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2024
+25-05-2024,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2024
+30-06-2024,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2024
+05-07-2024,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2024
+10-08-2024,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2024
+15-09-2024,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2024
+20-10-2024,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2024
+25-11-2024,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2024
+30-12-2024,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2024
+01-01-2022,08:00:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Distracted Driving,Car,2,30,Monday,January,2022
+05-01-2022,15:30:00,40.7128,-74.006,Highway,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,45,Wednesday,January,2022
+10-02-2022,18:45:00,41.8781,-87.6298,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,40,Thursday,February,2022
+15-03-2022,12:00:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,25,Tuesday,March,2022
+20-04-2022,09:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,35,Wednesday,April,2022
+25-05-2022,17:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,50,Wednesday,May,2022
+30-06-2022,14:30:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Thursday,June,2022
+05-07-2022,20:15:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2022
+10-08-2022,12:45:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2022
+15-09-2022,08:30:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2022
+20-10-2022,16:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2022
+25-11-2022,14:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2022
+30-12-2022,10:00:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2022
+05-01-2023,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2023
+10-02-2023,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2023
+15-03-2023,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2023
+20-04-2023,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2023
+25-05-2023,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2023
+30-06-2023,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2023
+05-07-2023,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2023
+10-08-2023,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2023
+15-09-2023,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2023
+20-10-2023,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2023
+25-11-2023,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2023
+30-12-2023,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2023
+05-01-2024,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2024
+10-02-2024,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2024
+15-03-2024,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2024
+20-04-2024,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2024
+25-05-2024,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2024
+30-06-2024,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2024
+05-07-2024,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2024
+10-08-2024,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2024
+15-09-2024,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2024
+20-10-2024,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2024
+25-11-2024,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2024
+30-12-2024,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2024
+01-01-2022,08:00:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Distracted Driving,Car,2,30,Monday,January,2022
+05-01-2022,15:30:00,40.7128,-74.006,Highway,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,45,Wednesday,January,2022
+10-02-2022,18:45:00,41.8781,-87.6298,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,40,Thursday,February,2022
+15-03-2022,12:00:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,25,Tuesday,March,2022
+20-04-2022,09:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,35,Wednesday,April,2022
+25-05-2022,17:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,50,Wednesday,May,2022
+30-06-2022,14:30:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Thursday,June,2022
+05-07-2022,20:15:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2022
+10-08-2022,12:45:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2022
+15-09-2022,08:30:00,37.7749,-122.4194,Intersection,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2022
+20-10-2022,16:20:00,34.0522,-118.2437,Highway,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2022
+25-11-2022,14:10:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2022
+30-12-2022,10:00:00,41.8781,-87.6298,Intersection,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2022
+05-01-2023,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2023
+10-02-2023,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2023
+15-03-2023,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2023
+20-04-2023,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2023
+25-05-2023,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2023
+30-06-2023,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2023
+05-07-2023,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2023
+10-08-2023,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2023
+15-09-2023,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2023
+20-10-2023,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2023
+25-11-2023,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2023
+30-12-2023,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2023
+05-01-2024,15:30:00,34.0522,-118.2437,Street,Foggy,Wet,Poor,Collision,Moderate,Speeding,Truck,1,40,Thursday,January,2024
+10-02-2024,18:45:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,35,Thursday,February,2024
+15-03-2024,12:00:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,30,Tuesday,March,2024
+20-04-2024,09:20:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Minor,Other,Car,2,50,Wednesday,April,2024
+25-05-2024,17:10:00,40.7128,-74.006,Highway,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,45,Thursday,May,2024
+30-06-2024,14:30:00,41.8781,-87.6298,Street,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,35,Wednesday,June,2024
+05-07-2024,20:15:00,34.0522,-118.2437,Intersection,Clear,Dry,Clear,Collision,Moderate,Speeding,Car,2,40,Monday,July,2024
+10-08-2024,12:45:00,40.7128,-74.006,Street,Rainy,Wet,Poor,Rollover,Severe,Drunk Driving,Motorcycle,1,30,Wednesday,August,2024
+15-09-2024,08:30:00,37.7749,-122.4194,Highway,Clear,Dry,Clear,Collision,Moderate,Weather,Car,2,35,Thursday,September,2024
+20-10-2024,16:20:00,34.0522,-118.2437,Street,Clear,Dry,Clear,Collision,Minor,Other,Car,2,45,Wednesday,October,2024
+25-11-2024,14:10:00,40.7128,-74.006,Intersection,Rainy,Wet,Poor,Collision,Severe,Speeding,Car,1,55,Thursday,November,2024
+30-12-2024,10:00:00,41.8781,-87.6298,Highway,Clear,Dry,Clear,Rollover,Minor,Distracted Driving,Truck,1,30,Monday,December,2024
